@@ -21,3 +21,4 @@ def motorcycle_alert_system(road_condition, weather, traffic):
 
 # Example usage: Customize the inputs below to test the system
 motorcycle_alert_system(road_condition="wet", weather="rain", traffic="heavy")
+![Description](https://www.google.com/search?q=motorcycle+safety&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQLhgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gIyCQgIECMYJxjqAjIJCAkQIxgnGOoCMgkIChAjGCcY6gIyCQgLECMYJxjqAjIJCAwQIxgnGOoCMgkIDRAjGCcY6gIyCQgOECMYJxjqAjIRCA8QABgDGEIYjwEYtAIY6gIyDwgQEC4YAxiPARi0AhjqAjIRCBEQABgDGEIYjwEYtAIY6gIyEQgSEAAYAxhCGI8BGLQCGOoCMhEIExAAGAMYQhiPARi0AhjqAtIBBi0xajBqN6gCFLACAQ&client=ms-android-xiaomi-rvo3&sourceid=chrome-mobile&ie=UTF-8#vhid=Hxs-hKpyaV3jsM&vssid=l)
